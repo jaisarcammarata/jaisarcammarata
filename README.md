@@ -9,7 +9,7 @@ I am a science and technology enthusiast focused on turning raw data into insigh
 
 - 🤝 **My mission:** Automating my way toward better productivity, one script at a time.
 
-- ✍️ Documenting my build-in-public (aka #learninpublic) journey here: [**@jaisar**](https://medium.com/@jaisar)
+- ✍️ Documenting my build-in-public (aka #learninginpublic) journey here: [**@jaisar**](https://medium.com/@jaisar)
 
 <br>
 
