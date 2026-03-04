@@ -22,6 +22,19 @@ I am a science and technology enthusiast focused on turning raw data into insigh
     <img width="70px" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
   </kbd>
   <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="95px" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+  </kbd>
+  <kbd>
+    <kbd>Database/Visualization</kbd>
+    <br>
+    <br>
+    <img width="75px" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+     <img width="75px" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </kbd>
+  <kbd>
     <kbd>IDEs/Editors</kbd>
     <br>
     <br>
@@ -29,21 +42,6 @@ I am a science and technology enthusiast focused on turning raw data into insigh
     <img width="110px" src="https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white" />
     <img width="140px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img width="110px" src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  </kbd>
-  <br>
-  <kbd>
-    <kbd>Library/FrameWorks</kbd>
-    <br>
-    <br>
-    <img width="95px" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-  </kbd>
-  
-  <kbd>
-    <kbd>Database/Visualization</kbd>
-    <br>
-    <br>
-    <img width="75px" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-     <img width="75px" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   </kbd>
   <kbd>
     <kbd>Office</kbd>
