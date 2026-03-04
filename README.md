@@ -11,6 +11,8 @@ I am a science and technology enthusiast focused on turning raw data into insigh
 
 - ✍️ Documenting my build-in-public journey here: [**@jaisar**](https://medium.com/@jaisar)
 
+<br>
+<br>
 
 <p style="display: inline-block;" align="center">
   <kbd>
