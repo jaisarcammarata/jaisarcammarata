@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jaisar Cammarata<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">📊 Exploring the world through Data & Automation.</h3><img align="right" style="width:16rem; height:auto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRuMHN2cjV1NmNycDN6cTB6OXN3MnVjN3o3ajY5c2l1ZmxmcmFrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SvEUbsayyUlcPm41Tl/giphy.gif"/>
+<h3 font-size="20" align="center">📊 Exploring the world through Data & Automation.</h3><img align="right" style="width:17rem; height:auto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRuMHN2cjV1NmNycDN6cTB6OXN3MnVjN3o3ajY5c2l1ZmxmcmFrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SvEUbsayyUlcPm41Tl/giphy.gif"/>
 
 I am a science and technology enthusiast focused on turning raw data into insights and manual processes into automated systems.
 
@@ -30,7 +30,7 @@ I am a science and technology enthusiast focused on turning raw data into insigh
     <img width="140px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img width="110px" src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />
   </kbd>
-
+  <br>
   <kbd>
     <kbd>Library/FrameWorks</kbd>
     <br>
