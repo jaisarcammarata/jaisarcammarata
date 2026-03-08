@@ -5,7 +5,7 @@ I am a science and technology enthusiast focused on turning raw data into insigh
 
 - 🌱 I’m currently learning **Data Analysis, SQL, and Applied Machine Learning** to bridge the gap between hardware and intelligence. 
 
-- 🛠️ I’m looking to collaborate on **Open Source Data Science projects** or **Automation tools** (and I'm curious about how System Design scales these solutions).*
+- 🛠️ I’m looking to collaborate on **Open Source Data Science projects** or **Automation tools** (and I'm curious about how System Design scales these solutions).
 
 - 🤝 **My mission:** Automating my way toward better productivity, one script at a time.
 
